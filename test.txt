@@ -1,3 +1,1 @@
-This is an xget download test.
-If you are reading this, your computer meets the requirements for using xget unless of course you're viewing this directly on Github.
-If you want to install xget (Windows 7+), download the file 'xget.bat' in the xget repository.
+This is an xget download test. If you are reading this, your computer meets the requirements for using xget unless of course you're viewing this directly on Github. If you want to install xget (Windows 7+), download the file 'xget.bat' in the xget repository.
